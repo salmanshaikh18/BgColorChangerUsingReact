@@ -1,0 +1,18 @@
+#buttons {
+  background-color: #fff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 8vh;
+  border-radius: 10px;
+  width: 40vw;
+  margin: auto;
+  position: relative;
+  top: 80vh;
+}
+
+#main {
+  height: 100vh;
+  transition: 0.8s all ease;
+}
